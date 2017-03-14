@@ -4,7 +4,7 @@ doubanTGBot is a Telegram inline bot for Douban Book &amp; Movie.
 
 ## Note
 
-This is an idiot newbie work.
+**This is an idiot newbie work.**
 
 ## Deploy
 
