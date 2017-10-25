@@ -1,6 +1,6 @@
-# doubanTGBot
+# doubanBot
 
-doubanTGBot is a Telegram inline bot for Douban Book &amp; Movie.
+simple Telegram inline bot for Douban book &amp; movie items.
 
 ## Note
 
@@ -8,7 +8,7 @@ doubanTGBot is a Telegram inline bot for Douban Book &amp; Movie.
 
 ## Deploy
 
-Library [python-telegram-bot](/python-telegram-bot/python-telegram-bot) is needed to run the bot:
+Library [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) is needed to run the bot:
 
     $ pip install python-telegram-bot
 
