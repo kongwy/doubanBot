@@ -8,7 +8,7 @@ doubanTGBot is a Telegram inline bot for Douban Book &amp; Movie.
 
 ## Deploy
 
-Library `python-telegram-bot` is needed to run the bot:
+Library [python-telegram-bot](/python-telegram-bot/python-telegram-bot) is needed to run the bot:
 
     $ pip install python-telegram-bot
 
@@ -22,4 +22,4 @@ Run `bot.py`:
 
 ## Demo
 
-Check [@doubanBot](https://t.me/doubanBot) on Telegram.
+~~Check [@doubanBot](https://t.me/doubanBot) on Telegram.~~ I have no money to host it now. :(
