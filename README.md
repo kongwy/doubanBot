@@ -1,6 +1,8 @@
 # doubanBot
 
-simple Telegram inline bot for Douban book &amp; movie items.
+(DEPRECATED) Simple Telegram inline bot for Douban Books & Movies.
+
+:) Douban has closed their API service of personal use.
 
 ## Note
 
@@ -19,7 +21,3 @@ Replace the token in `bot.py` with yours:
 Run `bot.py`:
 
     $ py -3 bot.py
-
-## Demo
-
-~~Check [@doubanBot](https://t.me/doubanBot) on Telegram.~~ I have no money to host it now. :(
